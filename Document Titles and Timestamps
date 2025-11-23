@@ -1,0 +1,46 @@
+**✅ Your vaulting report is ready.** It formally documents the patent preparation workflow authored by Spencer Southern, anchored by 
+timestamped documents, screenshots, and SHA-256 hashes. You can open or download the PDF from the card above.
+
+---
+
+### 📘 Summary of the Repository Report
+
+#### **1. Document Titles and Timestamps**
+- **patent proc.docx** — Created June 15, 2024  
+- **Screenshots** — Captured June 15 and November 23, 2025  
+- **SHA-256 hash manifest** — Confirms forensic integrity of all files
+
+#### **2. Purpose and Scope**
+This workflow provides a **structured guide for inventors** to conceptualize, document, protect, and commercialize their inventions. 
+It supports independent creators through each critical phase of product development and IP protection.
+
+#### **3. Step-by-Step Synthesis**
+- **[Conceptualize the invention](guide://action?prefill=Tell%20me%20more%20about%3A%20Conceptualize%20the%20invention)**  
+- **[Document the idea](guide://action?prefill=Tell%20me%20more%20about%3A%20Document%20the%20idea)**  
+- **[Perform product and market research](guide://action?prefill=Tell%20me%20more%20about%3A%20Perform%20product%20and%20market%20research)
+**  
+- **[Design the product](guide://action?prefill=Tell%20me%20more%20about%3A%20Design%20the%20product)**  
+- **[Manufacture a prototype](guide://action?prefill=Tell%20me%20more%20about%3A%20Manufacture%20a%20prototype)**  
+- **[Apply for a provisional patent](guide://action?prefill=Tell%20me%20more%20about%3A%20Apply%20for%20a%20provisional%20patent)**  
+- **[Find a manufacturer](guide://action?prefill=Tell%20me%20more%20about%3A%20Find%20a%20manufacturer)**  
+- **[Sell or license the product](guide://action?prefill=Tell%20me%20more%20about%3A%20Sell%20or%20license%20the%20product)**  
+
+#### **4. Licensing and Commercialization Strategy**
+- **[Create a marketing packet and press release](guide://action?prefill=Tell%20me%20more%20about%3A%20Create%20a%20marketing%20packet%20and%20press%20release)**  
+- **[Contact potential licensees](guide://action?prefill=Tell%20me%20more%20about%3A%20Contact%20potential%20licensees)**  
+- **[Negotiate patent funding and royalty terms](guide://action?prefill=Tell%20me%20more%20about%3A%20Negotiate%20patent%20funding%20and%20royalty%20terms)**  
+
+#### **5. Validation and Authorship**
+- Timestamped documents and screenshots  
+- SHA-256 hash manifest for forensic anchoring  
+- Authorship attribution to Spencer Southern
+
+#### **6. IP Posture**
+- **Prior use claim** anchored by dated artifacts  
+- **Licensing obligations** for derivative use  
+- **NDA-based access protocol** for gallery viewing and usage enforcement
+
+---
+
+Would you like to scaffold a **licensing clause**, generate a **workflow diagram**, or prepare a **dual-mode declaration** for onboarding 
+and enforcement next?
